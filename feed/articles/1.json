@@ -1,0 +1,96 @@
+{
+  "page": 1,
+  "totalItems": 25,
+  "itemsPerPage": 10,
+  "items": [
+    {
+      "id": "001",
+      "title": "La révolution de l'intelligence artificielle dans notre quotidien",
+      "summary": "Une analyse approfondie de l'impact des technologies d'IA sur notre vie de tous les jours, des assistants virtuels aux voitures autonomes.",
+      "imageUrl": "https://placehold.co/234x187/jpg",
+      "publishDate": "2024-10-24T00:00:00Z",
+      "isPremium": true,
+      "category": "Technologie"
+    },
+    {
+      "id": "002",
+      "title": "Les nouveaux défis de l'agriculture urbaine",
+      "summary": "Comment les villes françaises adaptent leurs espaces pour créer des potagers urbains et promouvoir l'autonomie alimentaire.",
+      "imageUrl": "https://placehold.co/456x321/jpg",
+      "publishDate": "2024-10-23T00:00:00Z",
+      "isPremium": false,
+      "category": "Environnement"
+    },
+    {
+      "id": "003",
+      "title": "Le retour du vinyl: un phénomène culturel",
+      "summary": "Le marché du disque vinyle continue sa progression, porté par une nouvelle génération d'amateurs de musique.",
+      "imageUrl": "https://placehold.co/123x445/jpg",
+      "publishDate": "2024-10-23T00:00:00Z",
+      "isPremium": false,
+      "category": "Culture"
+    },
+    {
+      "id": "004",
+      "title": "Analyse exclusive: L'évolution du marché immobilier parisien",
+      "summary": "Une étude détaillée des tendances et des prix dans les différents arrondissements de la capitale.",
+      "imageUrl": "https://placehold.co/298x156/jpg",
+      "publishDate": "2024-10-22T00:00:00Z",
+      "isPremium": true,
+      "category": "Économie"
+    },
+    {
+      "id": "005",
+      "title": "La gastronomie française à l'heure du changement climatique",
+      "summary": "Les chefs étoilés repensent leurs menus pour s'adapter aux enjeux environnementaux.",
+      "imageUrl": "https://placehold.co/342x489/jpg",
+      "publishDate": "2024-10-22T00:00:00Z",
+      "isPremium": true,
+      "category": "Gastronomie"
+    },
+    {
+      "id": "006",
+      "title": "Les festivals de l'été 2024: guide complet",
+      "summary": "Découvrez notre sélection des meilleurs festivals de musique à ne pas manquer cette saison.",
+      "imageUrl": "https://placehold.co/167x389/jpg",
+      "publishDate": "2024-10-21T00:00:00Z",
+      "isPremium": false
+    },
+    {
+      "id": "007",
+      "title": "Innovation: Une batterie révolutionnaire made in France",
+      "summary": "Une start-up française développe une technologie prometteuse pour le stockage d'énergie.",
+      "imageUrl": "https://placehold.co/432x245/jpg",
+      "publishDate": "2024-10-21T00:00:00Z",
+      "isPremium": true,
+      "category": "Innovation"
+    },
+    {
+      "id": "008",
+      "title": "Le boom des trottinettes électriques en ville",
+      "summary": "État des lieux de la mobilité urbaine et des nouveaux modes de déplacement.",
+      "imageUrl": "https://placehold.co/289x376/jpg",
+      "publishDate": "2024-10-20T00:00:00Z",
+      "isPremium": false,
+      "category": "Transport"
+    },
+    {
+      "id": "009",
+      "title": "Portrait: Les nouveaux artisans du numérique",
+      "summary": "Rencontre avec ces créateurs qui mêlent tradition artisanale et technologies modernes.",
+      "imageUrl": "https://placehold.co/156x432/jpg",
+      "publishDate": "2024-10-20T00:00:00Z",
+      "isPremium": true,
+      "category": "Métiers"
+    },
+    {
+      "id": "010",
+      "title": "Les secrets des vins biologiques français",
+      "summary": "Enquête sur les méthodes de production et le succès grandissant des vins bio.",
+      "imageUrl": "https://placehold.co/398x167/jpg",
+      "publishDate": "2024-10-19T00:00:00Z",
+      "isPremium": true,
+      "category": "Gastronomie"
+    }
+  ]
+}

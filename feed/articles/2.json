@@ -1,0 +1,95 @@
+{
+  "page": 2,
+  "totalItems": 25,
+  "itemsPerPage": 10,
+  "items": [
+    {
+      "id": "011",
+      "title": "Le renouveau du commerce de proximité",
+      "summary": "Comment les petits commerces se réinventent face aux géants du e-commerce.",
+      "imageUrl": "https://placehold.co/267x398/jpg",
+      "publishDate": "2024-10-19T00:00:00Z",
+      "isPremium": false,
+      "category": "Économie"
+    },
+    {
+      "id": "012",
+      "title": "Les tendances du tourisme durable",
+      "summary": "Les Français optent de plus en plus pour des vacances respectueuses de l'environnement.",
+      "imageUrl": "https://placehold.co/489x234/jpg",
+      "publishDate": "2024-10-18T00:00:00Z",
+      "isPremium": false
+    },
+    {
+      "id": "013",
+      "title": "L'avenir de l'éducation numérique en France",
+      "summary": "Comment les écoles françaises s'adaptent à l'ère du digital et du distanciel.",
+      "imageUrl": "https://placehold.co/178x456/jpg",
+      "publishDate": "2024-10-18T00:00:00Z",
+      "isPremium": true,
+      "category": "Éducation"
+    },
+    {
+      "id": "014",
+      "title": "La renaissance des cinémas de quartier",
+      "summary": "Ces salles historiques qui retrouvent une seconde jeunesse grâce à des programmations originales.",
+      "imageUrl": "https://placehold.co/345x289/jpg",
+      "publishDate": "2024-10-17T00:00:00Z",
+      "isPremium": false,
+      "category": "Culture"
+    },
+    {
+      "id": "015",
+      "title": "Les coulisses de la haute couture française",
+      "summary": "Visite privilégiée dans les ateliers des plus grandes maisons de mode.",
+      "imageUrl": "https://placehold.co/234x367/jpg",
+      "publishDate": "2024-10-17T00:00:00Z",
+      "isPremium": true,
+      "category": "Mode"
+    },
+    {
+      "id": "016",
+      "title": "La révolution des véhicules autonomes",
+      "summary": "Les dernières avancées technologiques dans le domaine de la conduite autonome.",
+      "imageUrl": "https://placehold.co/456x198/jpg",
+      "publishDate": "2024-10-16T00:00:00Z",
+      "isPremium": false,
+      "category": "Transport"
+    },
+    {
+      "id": "017",
+      "title": "Le marché du luxe en pleine mutation",
+      "summary": "Comment les marques de luxe s'adaptent aux nouvelles attentes des consommateurs.",
+      "imageUrl": "https://placehold.co/289x445/jpg",
+      "publishDate": "2024-10-16T00:00:00Z",
+      "isPremium": true
+    },
+    {
+      "id": "018",
+      "title": "Les nouvelles frontières de la médecine personnalisée",
+      "summary": "Les avancées de la recherche médicale dans le traitement sur mesure des patients.",
+      "imageUrl": "https://placehold.co/376x234/jpg",
+      "publishDate": "2024-10-15T00:00:00Z",
+      "isPremium": true,
+      "category": "Santé"
+    },
+    {
+      "id": "019",
+      "title": "L'essor des jardins partagés",
+      "summary": "De plus en plus de Français se tournent vers le jardinage collectif en ville.",
+      "imageUrl": "https://placehold.co/198x389/jpg",
+      "publishDate": "2024-10-15T00:00:00Z",
+      "isPremium": false,
+      "category": "Environnement"
+    },
+    {
+      "id": "020",
+      "title": "La transformation digitale des musées",
+      "summary": "Comment les institutions culturelles embrassent les nouvelles technologies.",
+      "imageUrl": "https://placehold.co/445x267/jpg",
+      "publishDate": "2024-10-14T00:00:00Z",
+      "isPremium": true,
+      "category": "Culture"
+    }
+  ]
+}

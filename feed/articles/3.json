@@ -1,0 +1,51 @@
+{
+  "page": 3,
+  "totalItems": 25,
+  "itemsPerPage": 10,
+  "items": [
+    {
+      "id": "021",
+      "title": "Le boom du commerce en ligne",
+      "summary": "L'évolution des habitudes d'achat des Français depuis la pandémie.",
+      "imageUrl": "https://placehold.co/323x456/jpg",
+      "publishDate": "2024-10-14T00:00:00Z",
+      "isPremium": false,
+      "category": "Économie"
+    },
+    {
+      "id": "022",
+      "title": "L'intelligence artificielle dans la recherche médicale",
+      "summary": "Les dernières innovations en matière de diagnostic et de traitement assistés par IA.",
+      "imageUrl": "https://placehold.co/167x289/jpg",
+      "publishDate": "2024-10-13T00:00:00Z",
+      "isPremium": true,
+      "category": "Santé"
+    },
+    {
+      "id": "023",
+      "title": "Les nouveaux métiers du numérique",
+      "summary": "Découverte des professions émergentes dans le secteur technologique.",
+      "imageUrl": "https://placehold.co/389x345/jpg",
+      "publishDate": "2024-10-13T00:00:00Z",
+      "isPremium": false
+    },
+    {
+      "id": "024",
+      "title": "La révolution de l'agriculture connectée",
+      "summary": "Comment les technologies transforment le secteur agricole français.",
+      "imageUrl": "https://placehold.co/276x198/jpg",
+      "publishDate": "2024-10-12T00:00:00Z",
+      "isPremium": true,
+      "category": "Agriculture"
+    },
+    {
+      "id": "025",
+      "title": "Les tendances de la mode éthique",
+      "summary": "Le développement de la mode responsable et durable en France.",
+      "imageUrl": "https://placehold.co/398x445/jpg",
+      "publishDate": "2024-10-12T00:00:00Z",
+      "isPremium": false,
+      "category": "Mode"
+    }
+  ]
+}
